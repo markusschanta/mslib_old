@@ -1,7 +1,7 @@
 from setuptools import setup
 
 setup(name='mslib',
-      version='0.1',
+      version='0.1.2',
       description='mslib',
       url='https://github.com/markusschanta/mslib',
       author='Markus Schanta',
