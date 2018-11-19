@@ -1,4 +1,4 @@
-from mslib import sharpe
+from finance import sharpe
 import pandas as pd
 
 def test_sharpe():
