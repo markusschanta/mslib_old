@@ -1,1 +1,1 @@
-from .vega_datasets import stocks
+from .vega_datasets_wrapper import stocks
