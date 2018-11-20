@@ -1,3 +1,4 @@
 pandas
 pytest
+requests
 vega_datasets

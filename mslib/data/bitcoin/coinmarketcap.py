@@ -1,8 +1,8 @@
 import json
 import time
-import requests
 
 import pandas as pd
+import requests
 
 
 def get_coin_list():
